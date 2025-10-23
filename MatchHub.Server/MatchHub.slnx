@@ -10,9 +10,6 @@
   <Folder Name="/src/Presentation/">
     <Project Path="src/Presentation/MatchHub.API/MatchHub.API.csproj" />
   </Folder>
-  <Folder Name="/src/Shared/">
-    <Project Path="src/Shared/MatchHub.Shared/MatchHub.Shared.csproj" />
-  </Folder>
   <Folder Name="/tests/" />
   <Folder Name="/tests/Core/">
     <Project Path="tests/Core/MatchHub.Application.UnitTests/MatchHub.Application.UnitTests.csproj" />

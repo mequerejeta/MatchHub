@@ -1,7 +1,7 @@
 import axios from "axios"
 import type { Match, CreateMatchRequest, RegisterResultRequest } from "@/store/matchesSlice"
 
-const API_URL = process.env.NEXT_PUBLIC_API_URL || "http://localhost:5000"
+const API_URL = process.env.NEXT_PUBLIC_API_URL || "https://localhost:44301"
 
 const api = axios.create({
   baseURL: API_URL,
